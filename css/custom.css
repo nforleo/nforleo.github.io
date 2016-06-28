@@ -1,0 +1,59 @@
+	#myNav {
+		background: black;
+	}
+	
+	#head {
+		background: #808080; /* For browsers that do not support gradients */
+		background: -webkit-linear-gradient(#808080, #808080, #808080, #808080, white); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(#808080, #808080, #808080, #808080, white); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(#808080, #808080, #808080, #808080, white); /* For Firefox 3.6 to 15 */
+		background: linear-gradient(#808080, #808080, #808080, #808080, white); /* Standard syntax */
+		padding-bottom: 100px;
+	}
+	#about {
+		background: white;
+		color: black;
+	}
+	
+	#underAbout {
+		border: 1px solid black;
+	}
+	
+	#portfolio {
+		background: #808080; /* For browsers that do not support gradients */
+		background: -webkit-linear-gradient(white, #808080, #808080, #808080, white); /* For Safari 5.1 to 6.0 */
+		background: -o-linear-gradient(white, #808080, #808080, #808080, white); /* For Opera 11.1 to 12.0 */
+		background: -moz-linear-gradient(white, #808080, #808080, #808080, white); /* For Firefox 3.6 to 15 */
+		background: linear-gradient(white, #808080, #808080, #808080, white); /* Standard syntax */
+		color: black;
+	}
+	
+	#bar {
+		border: 1px solid black;
+	}
+	
+	.modal-body {
+		color: black;
+	}
+	
+	#x {
+		background: black;
+		border: 2px solid black;
+	}
+	
+	#contact {
+		background: white;
+		color: black;
+	}
+	
+	#foot {
+		background: black;
+	}
+	
+	#foot-below {
+		background: #1a1a1a;
+	}
+	
+	#resume {
+		color: black;
+	}
